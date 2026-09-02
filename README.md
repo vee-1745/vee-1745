@@ -1,12 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Vedant%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Undergrad%20%7C%20Data%20Analytics%20%26%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+
 <img src="https://komarev.com/ghpvc/?username=vee-1745&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Profile views" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vedant+%F0%9F%91%8B;CS+Undergrad+%7C+Data+Analytics+%26+AI%2FML;Exploring+Explainable+AI+%26+Security" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Exploring+Explainable+AI+%26+Security;Building+dev+tools+with+the+Claude+API;Currently+deep+in+CTFs+%F0%9F%9A%A9" alt="Typing SVG" /></a>
 
 </div>
-
-<h3 align="center">Pre-final year Computer Science Engineering undergrad, specializing in Data Analytics</h3>
 
 <p align="center">
   <a href="https://x.com/vedant1745" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -15,7 +15,7 @@
   <a href="mailto:vggajbhiye1745@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 👨‍💻 About Me
 
@@ -28,7 +28,7 @@ I'm a Computer Science undergrad at **VIT-AP University**, specializing in **Dat
 - 🚩 **CTF work:** Android app security analysis (static analysis, credential/URI-scheme issues), RSA cryptanalysis on weak key generation
 - 💬 **Fun fact:** I can name the culprit before Conan does — anime marathons are my other debugger
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -69,27 +69,33 @@ I'm a Computer Science undergrad at **VIT-AP University**, specializing in **Dat
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vee-1745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vee-1745&theme=tokyonight&hide_border=true" alt="Vedant's streak stats" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vee-1745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vee-1745&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=vee-1745&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vedant's GitHub stats" height="165"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vee-1745&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vee-1745&theme=default&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vee-1745&theme=tokyonight&hide_border=true" alt="Vedant's streak stats" height="165"/>
+</picture>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vee-1745&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vee-1745&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vee-1745&layout=compact&theme=default&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vee-1745&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+</picture>
 </p>
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vee-1745&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
 </p>
 
----
-
-<div align="center">
-
-**⭐ Thanks for stopping by — feel free to explore my repos or reach out!**
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
